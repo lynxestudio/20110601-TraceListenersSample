@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{22FBCFCE-2B66-429A-947F-D7F36B9726D5}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Samples.ELtraceApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Samples.ELtraceApp\Program.cs">
+    <Files>
+      <File FileName="Samples.ELtraceApp\Program.cs" Line="58" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
