@@ -56,10 +56,6 @@ Al ejecutar el programa mostrará un resultado como en la siguiente imagen:
 </p>
 <img src="images/log2.png">
 <p>
-Con el siguiente código el programa intercambia entre Listeners dependiendo si pertenece al grupo con permisos de administración o no.
-</p>
-<img src="images/201112Frag1Code.png">
-<p>
 Si no pertenece al grupo de administradores utiliza como log un archivo de texto log.txt caso contrario utiliza el Event Viewer (visor de eventos de Windows) como se muestra en la siguiente imagen:
 </p>
 <img src="images/log3.png">
